@@ -4,9 +4,9 @@ create a device that can help them overcome their disability. It is not sustaina
 century, there are still people who aren’t getting the full experience and favor from technology.
 That’s why a device was created to aid them to perform their activities. It can assist them to
 overcome their daily obstacles. It can help them move more freely. As it also can boost their
-confidence. Achieving this project will create a device that draws a direct connection between
+confidence. We have created a device that draws a direct connection between
 the visually impaired and machine.
-Create a device that boosts the safety of the visually impaired while living their everyday life.
+This device boosts the safety of the visually impaired while living their everyday life.
 This device will make the visually impaired more accepted in society because they will be able
 to achieve more tasks than they used to, (knowing that some of them are essential). The product
 will allow the user to comprehend life around them. They will be able to experience life more
@@ -19,7 +19,6 @@ proposed smart lens will leverage object detection techniques and a speaker to p
 with real-time feedback about their surroundings, enabling them to navigate more effectively
 and safely.
 The smart lens will consist of a camera that captures images of the user's surroundings and
-12
 sends them to a machine learning model for object detection. The model will analyze the
 images and identify any objects that are present, as well as their respective distances. Once an
 object has been detected, a speaker will announce the object and its distance to the user in
