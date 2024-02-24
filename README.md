@@ -1,18 +1,4 @@
 # Smart_Vision_Glasses_for_blind
-To help the visually impaired people, a decision was made to gather today’s top technology and
-create a device that can help them overcome their disability. It is not sustainable that in the 21st
-century, there are still people who aren’t getting the full experience and favor from technology.
-That’s why a device was created to aid them to perform their activities. It can assist them to
-overcome their daily obstacles. It can help them move more freely. As it also can boost their
-confidence. We have created a device that draws a direct connection between
-the visually impaired and machine.
-This device boosts the safety of the visually impaired while living their everyday life.
-This device will make the visually impaired more accepted in society because they will be able
-to achieve more tasks than they used to, (knowing that some of them are essential). The product
-will allow the user to comprehend life around them. They will be able to experience life more
-dynamically and live it in an upgraded manner. It will elevate the user’s self-esteem and make
-them raise their confidence while doing any task possible. It will make their life easier due to
-its connection with the evolution of technology.
 The aim of this project is to develop a smart lens for visually impaired individuals that can
 detect and announce the presence of objects along with their respective distances. The
 proposed smart lens will leverage object detection techniques and a speaker to provide users
