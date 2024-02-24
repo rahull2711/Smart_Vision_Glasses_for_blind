@@ -33,3 +33,20 @@ Hardware Screenshots:
 
 
 ![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/3e8d7c25-bceb-4a9b-868d-9822d4e67795)
+
+Software Screenshots:
+
+
+![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/cb8a8221-ae2c-4bbc-b8f1-fa6a6abe1642)
+
+
+![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/040e8dfb-04e6-4a64-84a2-ac5b194294fb)
+
+
+![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/32b30422-cff1-40dc-b031-495193abcb1f)
+
+
+![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/4841f396-0bbe-4418-90b1-db23b6d7f77b)
+
+
+
