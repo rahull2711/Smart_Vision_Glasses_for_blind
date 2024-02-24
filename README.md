@@ -29,6 +29,44 @@ By combining these features, the Smart-Vision Glasses project aims to create a c
 and empowering solution for individuals with visual impairments, enhancing their
 accessibility, independence, and engagement in various aspects of their daily lives
 
+
+List of Parts for AI-Based Smart Glasses:
+1. Raspberry Pi 4 (4GB variant)
+2. USB Camera
+3. Microphone
+4. LEDs for Night Vision
+5. Ultrasonic Sensor
+6. Power Bank
+7. Push Buttons (3)
+8. Various Circuits and Electronics
+9. Connecting Wires
+10. Headset or Earphones with a 3.5mm jack for audio output
+11. Switch (for controlling LEDs)
+12. Resistors and Capacitors (as required for pull-up configurations and circuitry)
+13. Enclosure for Smart Glasses (3D printed case )
+14. Additional Sensors or Components for Future Features
+
+
+Hardware Connections and Working of the Project:
+The project is smart ai based glasses for blind people with components is using a Raspberry Pi 4 4GB 
+variant with a camera and microphone and LED's for the night and on the other hand its also using 
+ultrasonic sensor and using a power bank to power it up and some push buttons and some circuits and 
+other electronics..
+So we talk about the connections the camera is connecting through the USB port of the Raspberry Pi 
+same with the microphone for the ultrasonic sensor we are using the GPIO PINES of the Raspberry Pi 4 5 
+volts for VCC pin. GND to gnd eacho to GPio pin 17 trigger to GPio22 and for the buttons we are using 
+the GPio in the pull up configuration button one is connecting to 23gpio button 2 is connected to 
+24gpio pin. 
+Now let's talk about the working of the project. first we need to power up the glasses after powering up 
+we will use the push buttons on the circuit for example when we press button one it will turn on the 
+path finding algorithm it use the camera and the ultrasonic sensor to find the path and tell the distance 
+between the object it will tell the user about the path and the distance through the audio for that we 
+need to connect a earphone to Raspberry Pi from 3.5 mm jack on it. It use the Text to Speech which 
+converted text output into speech and user will get to know the path where it need to go right or left 
+and this distance from the front object and when we press the button two on the circuit it will it start the 
+assistant algorithm which will help the user to tell anything
+
+
 Hardware Screenshots:
 
 
