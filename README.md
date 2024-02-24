@@ -28,3 +28,6 @@ range of functionalities.
 By combining these features, the Smart-Vision Glasses project aims to create a comprehensive
 and empowering solution for individuals with visual impairments, enhancing their
 accessibility, independence, and engagement in various aspects of their daily lives
+
+Hardware Screenshots:
+![image](https://github.com/rahull2711/Smart_Vision_Glasses_for_blind/assets/108586386/3e8d7c25-bceb-4a9b-868d-9822d4e67795)
